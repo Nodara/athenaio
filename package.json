@@ -1,0 +1,15 @@
+{
+  "name": "athenaio",
+  "version": "1.0.0",
+  "description": "Toolkit for Simpler Querying with Athena Using Node.js",
+  "author": "Nodar Imedashvili",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {
+    "@aws-sdk/client-athena": "^3.445.0"
+  }
+}

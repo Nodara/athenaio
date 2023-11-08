@@ -1,0 +1,1 @@
+-- consumer IAM user must have Athena:"GetQueryResults" and s3:"GetObject" permissions;
